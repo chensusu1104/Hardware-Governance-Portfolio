@@ -18,11 +18,11 @@ System-level integration governance across multi-module hardware, structured EVT
 
 ### 3. Precision Mechanical Structure Governance (2018–2019)
 Multi-material structural stability control, tight mating discipline, durability validation, and mass production authorization under precision constraints.
-👉 [View Case]
+👉 [View Case]https://github.com/chensusu1104/Precision-Mechanical-Structure-Governance-for-Dial-Based-Locking-System
 
 ### 4. Multi-Variant Platform Governance for Hunting Rangefinder (2020)
 Unified mechanical platform across three variants with configuration discipline and production ramp control.
-👉 [View Case]
+👉 [View Case]https://github.com/chensusu1104/Laser-Rangefinder-Variant-Governance-Production-Control
 
 ---
 
